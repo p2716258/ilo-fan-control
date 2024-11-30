@@ -1,0 +1,6 @@
+# Exclude .env file
+.env
+
+# Optional: Add other files or directories to ignore
+*.log
+*.tmp
